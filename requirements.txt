@@ -1,0 +1,18 @@
+job-market-analysis/              <- Repo name
+│
+├── data/                         <- Raw datasets (CSV files)
+│   ├── linkedin-jobs-africa.csv
+│   ├── linkedin-jobs-canada.csv
+│   ├── linkedin-jobs-usa.csv
+│
+├── notebooks/                    <- Jupyter notebooks
+│   ├── job_market_analysis.ipynb
+│   ├── end_to_end_project_viz.ipynb
+│
+├── outputs/                      <- Saved charts/plots
+│   ├── job_postings_over_time.png
+│   ├── top_skills_by_region.png
+│
+├── README.md                     <- Main project description
+├── requirements.txt              <- Python libraries
+└── .gitignore                    <- Ignore unnecessary files
